@@ -1,11 +1,11 @@
 # SFMC development examples
-A collection of programatic examples of SSJS, WSProxy, Ampscript, and SQL for use within Salesforce Marketing Cloud. 
+A collection of programmatic examples of SSJS, WSProxy, Ampscript, and SQL for use within Salesforce Marketing Cloud. 
 More than happy for Pull Requests if anyone wants to add their own. 
 
 ## SSJS
 * Add to a DE
 * Use REST API to retrieve email content
-* Create a webhoook with GetPostData
+* Create a webhook with GetPostData
 * Validate a string as a Salesforce ID. Can also be used to convert 15 char ID to 18 char ID.
 
 ## WSProxy

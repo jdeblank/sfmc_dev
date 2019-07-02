@@ -20,6 +20,9 @@ More than happy for Pull Requests if anyone wants to add their own.
 * Update a Data Extension name
 * Retrieve and Update all Publication List statuses
 * Update a single Publication List Status 
+* Update and rename multiple DEs
+* Update a Query's DE target
+* Retrieve a Query Activity
 
 ## Ampscript
 

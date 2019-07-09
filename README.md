@@ -4,6 +4,8 @@ More than happy for Pull Requests if anyone wants to add their own.
 
 ## SSJS
 * Add to a DE
+* Delete rows from a DE
+* Retrieve filtered DE rows
 * Use REST API to retrieve email content
 * Create a webhook with GetPostData
 * Validate a string as a Salesforce ID. Can also be used to convert 15 char ID to 18 char ID.
@@ -23,6 +25,7 @@ More than happy for Pull Requests if anyone wants to add their own.
 * Update and rename multiple DEs
 * Update a Query's DE target
 * Retrieve a Query Activity
+* DeleteBatch DEobject rows 
 
 ## Ampscript
 

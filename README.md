@@ -26,6 +26,7 @@ More than happy for Pull Requests if anyone wants to add their own.
 * Update a Query's DE target
 * Retrieve a Query Activity
 * DeleteBatch DEobject rows 
+* Retrieve Import Activity Results Summary
 
 ## Ampscript
 

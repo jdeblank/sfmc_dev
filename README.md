@@ -9,6 +9,7 @@ More than happy for Pull Requests if anyone wants to add their own.
 * Use REST API to retrieve email content
 * Create a webhook with GetPostData
 * Validate a string as a Salesforce ID. Can also be used to convert 15 char ID to 18 char ID.
+* Retrieve a REST API OAuth2 access token
 
 ## WSProxy
 * Create an Automation
@@ -27,7 +28,6 @@ More than happy for Pull Requests if anyone wants to add their own.
 * Retrieve a Query Activity
 * DeleteBatch DEobject rows 
 * Retrieve Import Activity Results Summary
-*
 
 ## Ampscript
 
